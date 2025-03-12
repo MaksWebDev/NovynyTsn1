@@ -1,0 +1,40 @@
+* {
+  text-align: center;
+}
+
+#head {
+  background-color: red;
+  color: white;
+  font-size: 48px;
+}
+#head2 {
+  margin: 5%;
+  font-size: 32px;
+}
+#info {
+  text-align: left;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 24px;
+  margin: 5%;
+}
+#alt {
+  text-align: center;
+  margin-right: 10%;
+  margin-left: 10%;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#alt {
+  text-align: left;
+}
+#nick {
+  text-align: left;
+  margin-left: 6%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#comment {
+  text-align: left;
+  margin-left: 2%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+}
